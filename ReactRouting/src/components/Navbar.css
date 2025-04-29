@@ -1,0 +1,11 @@
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    margin: 5px;
+    gap: 5px;
+}
+.isActive-link{
+    border: 1px solid red;
+}

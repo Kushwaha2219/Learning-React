@@ -1,0 +1,21 @@
+.container{
+    height: 18rem;
+    width:20%;
+    background-color: antiquewhite;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.name{
+    margin: 12px;
+}
+.desc{
+    margin: 10px;
+}
